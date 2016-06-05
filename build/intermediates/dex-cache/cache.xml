@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/axolotl/develop/GitHubProject/udacity/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="/Users/axolotl/develop/GitHubProject/udacity/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-23.4.0_bcfa41a9e897a68b2a62ebf21e2aba6628e2a9b6/classes.dex" />
+    </item>
+    <item
+        jar="/Users/axolotl/.gradle/gradle-2.10/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/3.7.0/9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4/glide-3.7.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
+        <dex dex="/Users/axolotl/develop/GitHubProject/udacity/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/glide-3.7.0_cb979cc14328bb68f949310a7ce8671e79229c39/classes.dex" />
+    </item>
+    <item
+        jar="/Users/axolotl/develop/GitHubProject/udacity/xyzreader/XYZReader/libs/volley.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="c68094cbd011a3f9dccbfe16e77a2cf43622e277">
+        <dex dex="/Users/axolotl/develop/GitHubProject/udacity/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/2/volley_6e8da202d36481eddc5e7ff5e9ceca2e1f6915e1/classes.dex" />
+    </item>
+    <item
+        jar="/Users/axolotl/develop/GitHubProject/udacity/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="/Users/axolotl/develop/GitHubProject/udacity/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-23.4.0_9c9c7a91b3d48a303e59d58ec8a321cb08105e65/classes.dex" />
+    </item>
+    <item
+        jar="/Users/axolotl/develop/GitHubProject/udacity/xyzreader/XYZReader/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="555a8f38f9c9bdac050081859732344970d3ebec">
+        <dex dex="/Users/axolotl/develop/GitHubProject/udacity/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_8f13f82885e9253e1484571bdb745948845b9c1d/classes.dex" />
+    </item>
+    <item
+        jar="/Users/axolotl/.gradle/gradle-2.10/caches/modules-2/files-2.1/com.squareup.okio/okio/1.6.0/98476622f10715998eacf9240d6b479f12c66143/okio-1.6.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="/Users/axolotl/develop/GitHubProject/udacity/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/okio-1.6.0_4556c0d5209d3eacce71d67a9b03f42f503ec2dd/classes.dex" />
+    </item>
+    <item
+        jar="/Users/axolotl/develop/GitHubProject/udacity/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/libs/internal_impl-23.4.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="/Users/axolotl/develop/GitHubProject/udacity/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.4.0_b434cfbe2f73f7ad1f6e87bab35443b4d4f2d074/classes.dex" />
+    </item>
+    <item
+        jar="/Users/axolotl/develop/GitHubProject/udacity/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="/Users/axolotl/develop/GitHubProject/udacity/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-23.4.0_162ea3a67a87a56744f84ed000ca4689f1d8071d/classes.dex" />
+    </item>
+    <item
+        jar="/Users/axolotl/develop/GitHubProject/udacity/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="d9ecde39b460470e655de6e47c05573d2d5a8bfb">
+        <dex dex="/Users/axolotl/develop/GitHubProject/udacity/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-cardview-v7-23.4.0_5624d4b92b0a9813f7e57c7be3873bb60e592b03/classes.dex" />
+    </item>
+    <item
+        jar="/Users/axolotl/develop/GitHubProject/udacity/xyzreader/XYZReader/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="7a49935c304aad0392901f5485cebe3018b2540a">
+        <dex dex="/Users/axolotl/develop/GitHubProject/udacity/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_b8653ba58c2590d52901a065f67d36ea18fda637/classes.dex" />
+    </item>
+    <item
+        jar="/Users/axolotl/develop/GitHubProject/udacity/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/palette-v7/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="51518e8e8f97c314a243d9def0ded91d385b6a1e">
+        <dex dex="/Users/axolotl/develop/GitHubProject/udacity/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-palette-v7-23.4.0_bbe0a5f75da679c032962d095cf6b5a092927366/classes.dex" />
+    </item>
+    <item
+        jar="/Users/axolotl/develop/GitHubProject/udacity/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/design/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="5326d9a850d491714fef8cbfaa9ea3416f0bf0d2">
+        <dex dex="/Users/axolotl/develop/GitHubProject/udacity/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-23.4.0_b0148a7d88f8f090fbf6c69f88cdb26b18394d12/classes.dex" />
+    </item>
+    <item
+        jar="/Users/axolotl/develop/GitHubProject/udacity/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="/Users/axolotl/develop/GitHubProject/udacity/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-23.4.0_4e19d383c1ed7259d6b59d83675cd1fd9a32622d/classes.dex" />
+    </item>
+    <item
+        jar="/Users/axolotl/.gradle/gradle-2.10/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.1.2/7052283359001bb108753cb0583a887d3bf94c82/okhttp-3.1.2.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="7052283359001bb108753cb0583a887d3bf94c82">
+        <dex dex="/Users/axolotl/develop/GitHubProject/udacity/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/okhttp-3.1.2_b9e09a5d4806bde620774eb6ff1b18ca9c5ee82e/classes.dex" />
+    </item>
+    <item
+        jar="/Users/axolotl/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.4.0/support-annotations-23.4.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="/Users/axolotl/develop/GitHubProject/udacity/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.4.0_818607672881f16d02baf4e38ad6bb6fac076824/classes.dex" />
+    </item>
+    <item
+        jar="/Users/axolotl/develop/GitHubProject/udacity/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="/Users/axolotl/develop/GitHubProject/udacity/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.4.0_4c504b8d4731299671ac0fa002edf9839faa8770/classes.dex" />
+    </item>
+
+</items>
